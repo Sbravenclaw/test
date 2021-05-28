@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KU2ZSEn+nmXwAL/NmYE1L/U7xef5y8+tiRZ1aLlbrAqWwy3Gve8KHFq64A7JAKsExaoAALXZa/U438pnA7L1iA==",
+  "dgSpecHash": "RbcgoviJx4omFuSigA4ipoYIcVc2fc7WVKWjHu2YTGqBYCXqJ9KDxSyV7b75xqzwucAsnuDAT7jaImqiq9NYlA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ержан\\Desktop\\test git\\testgit\\testgit\\testgit.csproj",
+  "projectFilePath": "C:\\Users\\ержан\\Desktop\\test_git\\testgit\\testgit\\testgit.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ержан\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],
