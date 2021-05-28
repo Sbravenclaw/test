@@ -25,6 +25,7 @@ namespace testgit
             InitializeComponent();
            // BtnTest.IsEnabled = false;
            //test
+           //lolkek
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
