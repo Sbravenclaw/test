@@ -26,6 +26,7 @@ namespace testgit
            // BtnTest.IsEnabled = false;
            //test
            //lolkek
+           //keklol
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
